@@ -1,0 +1,26 @@
+{
+  "name": "react-clone-element",
+  "version": "0.0.1",
+  "description": "Clone an element from the DOM in the React tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branchard/react-clone-element.git"
+  },
+  "keywords": [
+    "react",
+    "tool",
+    "clone",
+    "dom",
+    "element"
+  ],
+  "author": "branchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branchard/react-clone-element/issues"
+  },
+  "homepage": "https://github.com/branchard/react-clone-element#readme"
+}
